@@ -1,0 +1,25 @@
+a{
+  color: red; 
+  font-size:30px; 
+  font-family:Serif;
+}
+
+h2{
+  -webkit-text-stroke: 1px black;
+  color:white;
+  text-shadow:
+    3px 3px 0 #000,
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+  
+}
+body{
+  
+  
+  color:white;
+  background-image: url("https://lh5.ggpht.com/w8vlt89U83TIzbDNDRdGBmFh3kS9wJthH3l8awOXRIx-CRSZ8aKtubFip8O7Mz7nABk=h900");
+  background-repeat: no-repeat;
+  
+}
