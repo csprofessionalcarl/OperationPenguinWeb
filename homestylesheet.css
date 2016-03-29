@@ -1,12 +1,15 @@
 #title{
-  -webkit-text-stroke: 3px black;
+  -webkit-text-stroke: 3px white;
   color:#A10142;
   font-size:70px;
   font-family:Impact;
   text-align:center;
   background-image:url("https://lh5.ggpht.com/w8vlt89U83TIzbDNDRdGBmFh3kS9wJthH3l8awOXRIx-CRSZ8aKtubFip8O7Mz7nABk=h900");
 }
-
+table{
+    background-image:url("https://lh5.ggpht.com/w8vlt89U83TIzbDNDRdGBmFh3kS9wJthH3l8awOXRIx-CRSZ8aKtubFip8O7Mz7nABk=h900");
+  
+}
 #top{
   
   
@@ -33,15 +36,14 @@ body{
   
   
   color:white;
-  background-color:#67047C;
+  background-color:#39135D;
 
   
 }
 
 .tab{
   background-color:;
-  -webkit-text-stroke: 1.5px black;
-  color:white;
+  -webkit-text-stroke: 1px white;
   font-size: 30px;
   margin:85px;
   text-decoration: none;
@@ -49,6 +51,6 @@ body{
 }
 
 #nav{
-  background-color:#500261;
+  background-color:#220440;
   
 }
