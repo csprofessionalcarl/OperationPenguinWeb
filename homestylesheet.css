@@ -62,12 +62,12 @@ body{
   background-color:;
   -webkit-text-stroke: 1px white;
   font-size: 30px;
-  margin:85px;
+  margin:50px;
   text-decoration: none;
   
 }
 
 #nav{
   background-color:#220440;
-  
+  text-align: center;
 }
