@@ -10,13 +10,14 @@
 #tutorial{
   background-color:#492B71;
 }
+
 table{
     background-image:url("https://lh5.ggpht.com/w8vlt89U83TIzbDNDRdGBmFh3kS9wJthH3l8awOXRIx-CRSZ8aKtubFip8O7Mz7nABk=h900");
-  
-}
-#top{
-  
-  
+    float:left;
+    margin-left:90px;
+    margin-right:auto;
+    display:inline-block;
+    padding:auto;
 }
 
 h1{
