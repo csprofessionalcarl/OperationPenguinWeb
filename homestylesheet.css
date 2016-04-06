@@ -19,6 +19,12 @@ table{
   
 }
 
+h1{
+  font-family: Impact;
+  -webkit-text-stroke: 2px white;
+  font-size:35px;
+  color:#A10142;
+}
 h2{
   -webkit-text-stroke: 1px white;
   color:black;
@@ -33,9 +39,10 @@ h2{
 }
 
 h3{
-  -webkit-text-stroke: 1px white;
-  color:black;
+  -webkit-text-stroke: 2px black;
+  color:white;
   font-family: Impact;
+  font-size: 25px;
   text-shadow:
     3px 3px 0 #000,
     -1px -1px 0 #000,
